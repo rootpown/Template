@@ -49,4 +49,10 @@ ul {
   gap: 10vh;
   margin-right: 20px;
   font-size: 17px;
+}
+
+@media (max-width: 850px) {
+  .list {
+    gap: 5vh;
+  }
 }/*# sourceMappingURL=style.css.map */
